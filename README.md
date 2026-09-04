@@ -16,6 +16,14 @@ the site normally.
 - No database tables, no external dependencies — uses WordPress's 
   built-in options API
 
+## Screenshots
+
+**Admin settings page:**
+![Admin settings](admin.png)
+
+**Visitor view when enabled:**
+![Visitor view](visitor.png)
+
 ## Installation
 
 1. Download `simple-maintenance-mode.php`
